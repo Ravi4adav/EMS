@@ -4,7 +4,6 @@ from pages.User.credentials_update import CredUpdate
 import streamlit as st
 from exceptions import CustomExceptions
 from streamlit_option_menu import option_menu
-from streamlit_navigation_bar import st_navbar
 import sys
 
 
