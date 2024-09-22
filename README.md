@@ -67,8 +67,11 @@ Admin_ID always begins with "Ad-"</font></b>
 ## Procedure to Install and Run the entire Project
 
 - **Step-1:** Download the entire project from github repository.
-- **Step-2:** Create a Python virtual environment for the entire project at local machine. **(Recommended)**
-- **Step-3:** Execute command to install all the dependancies of the project:
+- **Step-2:** Create a Python virtual environment for the entire project at local machine. **(Recommended)** 
+example:
+-             virtualenv <virtualenv_path or env_name>
+- **Step-3:** Paste all the files from downloaded project into virtual environment directory.
+- **Step-4:** Execute command to install all the dependancies of the project:
 -             pip install -r requirements.txt
-- **Step-4:** Execute the command to run the web app:
+- **Step-5:** Execute the command to run the web app:
 -             streamlit run app.py
