@@ -20,42 +20,42 @@ This is a management system application which using mysql database as backend to
 <font><b>employee</b></font>
 This table contains the following attributes:
 </pre>
-![alt text](image.png)
+![alt text](./images/image.png)
 
 
 <pre><font><b>job_dept</b></font>
 Following attributes are present in "job_dept" table:</pre>
-![alt text](image-1.png)
+![alt text](./images/image-1.png)
 
 
 <pre><font><b>credentials</b></font>
 Following attributes are present in "credentials" table:</pre>
-![alt text](image-2.png)
+![alt text](./images/image-2.png)
 
 
 <pre><font><b>user</b></font>
 Following attributes are present in "user" table:</pre>
-![alt text](image-3.png)
+![alt text](./images/image-3.png)
 
 
 <pre><font><b>salary</b></font>
 Following attributes are present in "salary" table:</pre>
-![alt text](image-4.png)
+![alt text](./images/image-4.png)
 
 
 <pre><font><b>projects</b></font>
 Following attributes are present in "projects" table:</pre>
-![alt text](image-5.png)
+![alt text](./images/image-5.png)
 
 
 <pre><font><b>emp_leaves</b></font>
 Following attributes are present in "emp_leaves" table:</pre>
-![alt text](image-6.png)
+![alt text](./images/image-6.png)
 
 
 <pre><font><b>admin_credentials</b></font>
 Following attributes are present in "admin_credentials" table:</pre>
-![alt text](image-7.png)
+![alt text](./images/image-7.png)
 
 <pre>
 <b><font color='red'>NOTE:</font>
